@@ -1,0 +1,6 @@
+electricity
+knowledge
+architecture
+mathematics
+chemistry
+communication

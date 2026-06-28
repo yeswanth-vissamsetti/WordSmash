@@ -1,0 +1,8 @@
+school
+planet
+window
+animal
+orange
+garden
+people
+school

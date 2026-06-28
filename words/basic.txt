@@ -1,0 +1,9 @@
+cat
+dog
+sun
+book
+tree
+fish
+apple
+car
+pen
